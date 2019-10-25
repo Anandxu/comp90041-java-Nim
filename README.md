@@ -1,5 +1,7 @@
 # comp90041-Nim
-The project produced a nim game with storage and reading capabilities.  Human and AI players can be added to the game.
+The project produced a nim game with storage and reading capabilities.
+
+Human and AI players can be added to the game.
 
 The following is a brief introduction to the command of the game:
 addplayer: Add human players. e.g. "addplayer xa Xu Anand" means add a human player whose user name, family name and given name are "xa", "Xu" and "Anand" respectively.
