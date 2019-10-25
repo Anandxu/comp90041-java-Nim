@@ -1,6 +1,5 @@
 # comp90041-Nim
 The project produced a nim game with storage and reading capabilities.
-
 Human and AI players can be added to the game.
 
 The following is a brief introduction to the command of the game:
